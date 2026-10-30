@@ -4,6 +4,8 @@ Interactive React hero concept by MIRRIN.
 
 `bun install` · `bun run dev` · `bun run build`
 
-Deploy: `npx wrangler pages deploy dist --project-name hero-smokey-peace`
+Live: https://hero-smokey-peace.cotly-app.workers.dev/
+
+Deploy: `npx wrangler deploy`
 
 Original brief: `BRIEF.md`. Video is served locally for reliable WebGL texture access. Includes responsive navigation, keyboard support, reduced-motion handling, and a WebGL fallback.
